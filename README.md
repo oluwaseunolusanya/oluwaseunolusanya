@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @oluwaseunolusanya.
+- 👋 Hi, I’m **Oluwaseun Olusanya a.k.a Olu**.
 - 👀 My interest is in software engineering, cloud computing and cybersecurity.
 - 🌱 I’m currently learning Django.
-- 💞️ I’m looking to ontribute to opensource projects.
+- 💞️ I’m looking to contribute to open source projects.
 - 📫 I could be reached at oluwaseun_olusanya@yahoo.com or oj.olusanya@gmail.com
 
 <!---

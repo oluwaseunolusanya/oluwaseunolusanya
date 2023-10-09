@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Oluwaseun Olusanya a.k.a Olu**.
 - 👀 My interest is in software engineering, cloud computing and web development.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning Front-End Web Development.
 - 💞️ I’m looking to contribute to open source projects.
 - 📫 I could be reached at oluwaseun_olusanya@yahoo.com or oj.olusanya@gmail.com
 

@@ -5,7 +5,7 @@ Software Engineer based in United Kingdom, that leverages over 6 years’ experi
 
 ### 🔭 Current Endeavours
 I work as a Software Engineer where I'm responsible for testing embedded software used for the safe and efficient control of aircraft engine. I'm currently engaged with:
-- Learning web development by developing exciting projects.
+- Learning web development tech stack by developing exciting projects.
 - Exploring different tools and libraries to enhance my skill set.
 
 ### ✨ Fun Facts

@@ -11,7 +11,7 @@ I work as a Software Engineer where I'm responsible for testing embedded softwar
 ### ✨ Fun Facts
 - My superpower is crafting delicious meals.
 - I played competitive football as a winger in secondary school.
-- I've got an acoustic and an electric guitar yet can't play a song.
+- I have two guitars, acoustic and electric yet can't play a song 😃
 
 ### 📫 Contact
 - Drop me a message on [LinkedIn](https://www.linkedin.com/in/oolusanya

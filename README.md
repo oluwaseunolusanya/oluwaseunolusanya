@@ -1,5 +1,5 @@
 ### Hi, I’m Oluwaseun (a.k.a Olu) 👋 
-Software Engineer based in United Kingdom with over 6 years’ experience in software development lifecycle (SDLC).
+Software Engineer based in the United Kingdom with over 6 years’ experience in software development lifecycle (SDLC).
 - Applies system-thinking, problem decomposition and passion for quality to build high-quality product.
 - Detail-oriented, analytical, creative and collaborative across different teams and stakeholders.
 

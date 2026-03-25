@@ -5,8 +5,7 @@ Software Engineer based in the United Kingdom with over 8 years’ experience in
 
 ### 🔭 Current Endeavours
 I test embedded software used for the safe and efficient control of aircraft engine. I'm currently engaged with:
-- Learning web development tech stack by developing exciting projects.
-- Exploring different tools and libraries to enhance my skill set.
+- Building a backend app that will help alleviate the administrative burden for a childcare practitioner.
 
 ### ✨ Fun Facts
 - My superpower is crafting delicious meals.
@@ -14,7 +13,6 @@ I test embedded software used for the safe and efficient control of aircraft eng
 - I have two guitars, acoustic and electric but can't play a song, yet 😃
 
 ### 📫 Contact
-- Drop me a message on [LinkedIn](https://www.linkedin.com/in/oolusanya
 - Reach out to me at oluwaseun_olusanya@yahoo.com or oj.olusanya@gmail.com
 
 

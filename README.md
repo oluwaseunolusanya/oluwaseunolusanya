@@ -4,7 +4,7 @@ Software Engineer based in the United Kingdom with over 8 years’ experience in
 - Detail-oriented, analytical, creative and collaborative across different teams and stakeholders.
 
 ### 🔭 Current Endeavours
-I test embedded software used for the safe and efficient control of aircraft engine. I'm currently engaged with:
+I develop embedded software used for the safe and efficient control of aircraft engine. I'm currently engaged with:
 - Building a backend app that will help alleviate the administrative burden for a childcare practitioner.
 
 ### ✨ Fun Facts

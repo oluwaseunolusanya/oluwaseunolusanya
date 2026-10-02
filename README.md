@@ -1,18 +1,18 @@
-### Hi, I’m Oluwaseun (a.k.a Olu) 👋 
-Software Engineer based in the United Kingdom with over 8 years’ experience in software development lifecycle (SDLC).
+### Hi, I’m Olu 👋 
+Software Engineer based in the United Kingdom with over a decade experience in engineering software products.
 - Applies system-thinking, problem decomposition and passion for quality to build high-quality product.
 - Detail-oriented, analytical, creative and collaborative across different teams and stakeholders.
 
 ### 🔭 Current Endeavours
-I develop embedded software used for the safe and efficient control of aircraft engine. I'm currently engaged with:
-- Building a backend app that will help alleviate the administrative burden for a childcare practitioner.
+- Building embedded software used for the safe and efficient control of aircraft engine.
+- Building an application to alleviate the administrative burden for a Nigerian meal-prep business.
+- Exploring the fun and challenges of platform engineering.
 
 ### ✨ Fun Facts
 - My superpower is crafting delicious meals.
-- I played competitive football as a winger in secondary school.
 - I have two guitars, acoustic and electric but can't play a song, yet 😃
 
 ### 📫 Contact
-- Reach out to me at oluwaseun_olusanya@yahoo.com or oj.olusanya@gmail.com
+- Reach out to me at oj.olusanya@gmail.com
 
 
